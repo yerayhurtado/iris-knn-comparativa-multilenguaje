@@ -24,27 +24,6 @@ El objetivo es **comparar rendimiento, facilidad de implementación y capacidade
 
 ---
 
-## 📂 Estructura del Repositorio
-
-├── /python/
-│ ├── knn_libreria.py
-│ ├── knn_manual.py
-│
-├── /r/
-│ ├── knn_libreria.R
-│ ├── knn_manual.R
-│
-├── /java/
-│ ├── knn_weka.java
-│
-├── Análisis_del_Dataset_Iris__Comparativa_Multilenguaje.pdf
-└── README.md
-
-ruby
-Copiar código
-
----
-
 ## 🧠 Algoritmo KNN
 
 El **K-Nearest Neighbors (KNN)** es un algoritmo de **clasificación supervisada** que asigna una clase a una instancia según la mayoría de sus *k* vecinos más cercanos, utilizando comúnmente la **distancia euclidiana**:
